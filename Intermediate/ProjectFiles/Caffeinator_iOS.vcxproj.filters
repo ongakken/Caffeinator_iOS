@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Caffeinator_iOS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FCA7E342-893E-4FDE-834F-470AEF2B63A1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Caffeinator_iOS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Caffeinator_iOSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BA17CC27-5A32-424A-84F9-25612E837DE2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Caffeinator_iOS">
+      <UniqueIdentifier>{F60C2549-1A7D-49F3-84FB-FB9AA40AFEF1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Caffeinator_iOS\Caffeinator_iOS.Build.cs">
+      <Filter>Source\Caffeinator_iOS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Caffeinator_iOS\Caffeinator_iOS.cpp">
+      <Filter>Source\Caffeinator_iOS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Caffeinator_iOS\Caffeinator_iOS.h">
+      <Filter>Source\Caffeinator_iOS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Caffeinator_iOS\Caffeinator_iOSGameModeBase.cpp">
+      <Filter>Source\Caffeinator_iOS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Caffeinator_iOS\Caffeinator_iOSGameModeBase.h">
+      <Filter>Source\Caffeinator_iOS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

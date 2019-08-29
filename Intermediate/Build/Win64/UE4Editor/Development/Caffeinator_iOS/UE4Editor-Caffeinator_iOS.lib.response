@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Caffeinator_iOS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Caffeinator_iOS\Intermediate\Build\Win64\Caffeinator_iOSEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Caffeinator_iOS\Intermediate\Build\Win64\UE4Editor\Development\Caffeinator_iOS\Caffeinator_iOS.cpp.obj"
+"C:\Caffeinator_iOS\Intermediate\Build\Win64\UE4Editor\Development\Caffeinator_iOS\Caffeinator_iOSGameModeBase.cpp.obj"
+"C:\Caffeinator_iOS\Intermediate\Build\Win64\UE4Editor\Development\Caffeinator_iOS\Caffeinator_iOS.init.gen.cpp.obj"
+"C:\Caffeinator_iOS\Intermediate\Build\Win64\UE4Editor\Development\Caffeinator_iOS\Caffeinator_iOSGameModeBase.gen.cpp.obj"
+"C:\Caffeinator_iOS\Intermediate\Build\Win64\UE4Editor\Development\Caffeinator_iOS\Default.rc2.res"
+/OUT:"C:\Caffeinator_iOS\Intermediate\Build\Win64\UE4Editor\Development\Caffeinator_iOS\UE4Editor-Caffeinator_iOS.lib"
+/INCLUDE:IMPLEMENT_MODULE_Caffeinator_iOS

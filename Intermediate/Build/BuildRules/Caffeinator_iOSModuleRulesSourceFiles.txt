@@ -1,0 +1,3 @@
+C:\Caffeinator_iOS\Source\Caffeinator_iOS\Caffeinator_iOS.Build.cs
+C:\Caffeinator_iOS\Source\Caffeinator_iOS.Target.cs
+C:\Caffeinator_iOS\Source\Caffeinator_iOSEditor.Target.cs

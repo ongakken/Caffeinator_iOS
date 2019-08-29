@@ -1,0 +1,3 @@
+C:\Caffeinator_iOS\Intermediate\Build\Win64\UE4Editor\Development\Caffeinator_iOS\Definitions.Caffeinator_iOS.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

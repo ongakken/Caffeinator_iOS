@@ -1,0 +1,2 @@
+C:\Caffeinator_iOS\Intermediate\Build\Win64\UE4Editor\Development\Caffeinator_iOS\Definitions.Caffeinator_iOS.h
+c:\caffeinator_ios\source\caffeinator_ios\Caffeinator_iOS.h
